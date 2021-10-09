@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nto300002/myserver.git"
   },
-  "homepage": "https://github.com/nto300002/myserver.git"
+  "homepage": "https://github.com/nto300002/myserver.git",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
